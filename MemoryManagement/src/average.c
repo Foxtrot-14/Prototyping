@@ -1,0 +1,3 @@
+#include "average.h"
+
+float get_average(int a, int b, int c) { return (a + b + c) / 3.0f; }

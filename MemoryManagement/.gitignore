@@ -1,0 +1,11 @@
+MemoryManagement
+test_runner
+*.out
+
+*.o
+
+compile_commands.json
+.cache/
+
+build/
+bin/
